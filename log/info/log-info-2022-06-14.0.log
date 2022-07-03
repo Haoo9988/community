@@ -1,0 +1,12 @@
+2022-06-14 19:17:27,688 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 1.8.0_333 on DESKTOP-DVS27QC with PID 14956 (started by Hao in F:\Java_Program\community)
+2022-06-14 19:17:27,693 INFO [main] c.n.c.MailTests [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-14 19:17:29,986 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2022-06-14 19:17:30,385 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:61] Started MailTests in 3.602 seconds (JVM running for 5.191)
+2022-06-14 19:32:29,539 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 1.8.0_333 on DESKTOP-DVS27QC with PID 17168 (started by Hao in F:\Java_Program\community)
+2022-06-14 19:32:29,541 INFO [main] c.n.c.MailTests [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-14 19:32:31,744 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2022-06-14 19:32:32,118 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:61] Started MailTests in 3.329 seconds (JVM running for 4.54)
+2022-06-14 19:46:47,819 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 1.8.0_333 on DESKTOP-DVS27QC with PID 14892 (started by Hao in F:\Java_Program\community)
+2022-06-14 19:46:47,840 INFO [main] c.n.c.MailTests [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-14 19:46:50,063 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2022-06-14 19:46:50,494 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:61] Started MailTests in 3.412 seconds (JVM running for 4.701)
