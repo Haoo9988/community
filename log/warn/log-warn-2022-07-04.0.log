@@ -1,0 +1,2 @@
+2022-07-04 20:00:39,211 WARN [http-nio-8080-exec-2] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:208] Resolved [java.lang.NullPointerException]
+2022-07-04 20:01:19,398 WARN [http-nio-8080-exec-10] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:208] Resolved [java.lang.NullPointerException]
